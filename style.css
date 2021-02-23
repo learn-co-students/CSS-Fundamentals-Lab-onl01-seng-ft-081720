@@ -3,3 +3,39 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1{
+ text-align: center;
+}
+
+nav{
+  text-align: center;
+}
+
+nav a{
+  padding: 0px 10px 0px 10px;
+  background-color: dimgrey;
+  /* text-align: center; */
+}
+
+#featured-property{
+  text-align: center;
+}
+
+#featured-property p{
+  outline: dotted;
+  text-align: center;
+  width: 800px;
+  margin: 0 auto;
+}
+
+#details{
+  background-color: firebrick;
+  display: block;
+}
+
+#details div{
+  display: inline-block;
+  text-align: center;
+  width: 24%;
+}
